@@ -1,4 +1,6 @@
-package com.javarush.task.task01.task0105;
+
+
+//package com.javarush.task.task01.task0105;
 
 /*
 Write a program that declares the following variables in the main method:
@@ -13,7 +15,7 @@ Requirements:
 • There must be 3 variables declared.
 */
 
-public class Solution {
+public class q3 {
     public static void main(String[] args) {
         //напишите тут ваш код
         String name;

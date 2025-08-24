@@ -1,4 +1,5 @@
-package com.javarush.task.task01.task0109;
+
+//package com.javarush.task.task01.task0109;
 
 /*
 Declare variables a, b of type int.
@@ -12,7 +13,7 @@ Requirements:
 • The variables a and b must have different values.
 */
 
-public class Solution {
+public class q4 {
     public static void main(String[] args) {
         //напишите тут ваш код
         int a = 6;

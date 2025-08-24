@@ -1,4 +1,5 @@
-package com.javarush.task.task01.task0107;
+
+//package com.javarush.task.task01.task0107;
 
 /*
 Uncomment one line so that the program displays the numbers 12 and 2 on the screen (first 12, then 2).
@@ -11,7 +12,7 @@ Requirements:
 • You need to uncomment one line and leave the rest unchanged.
 */
 
-public class Solution {
+public class q7 {
     public static void main(String[] args) {
         int x = 2;
         int y = 12;

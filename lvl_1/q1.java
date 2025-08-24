@@ -1,4 +1,6 @@
-package com.javarush.task.task01.task0142;
+
+
+//package com.javarush.task.task01.task0142;
 
 /*
 Write a program that displays the message "Amigo is very smart" on the screen.
@@ -11,7 +13,7 @@ Requirements:
 • The displayed text must correspond to the task.
 */
 
-public class Solution {
+public class q1 {
     public static void main(String[] args) {
         //напишите тут ваш код
                  System.out.println("Amigo is very smart");

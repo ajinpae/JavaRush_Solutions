@@ -1,4 +1,6 @@
-package com.javarush.task.task01.task0101;
+
+
+//package com.javarush.task.task01.task0101;
 
 /*
 Write a program that displays the following message on the screen:
@@ -14,7 +16,7 @@ Requirements:
 • The output text must correspond to the task.
 */
 
-public class Solution {
+public class q2 {
     public static void main(String[] args) {
         //напишите тут ваш код
 System.out.print("Я думаю, быть программистом круто");

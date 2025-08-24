@@ -1,4 +1,5 @@
-package com.javarush.task.task01.task0115;
+
+//package com.javarush.task.task01.task0115;
 
 /*
 Remove comments from part of the code so that the message "Happy New Year" is displayed on the screen.
@@ -10,7 +11,7 @@ Requirements:
 • The displayed text must correspond to the task.
 */
 
-public class Solution {
+public class q5 {
     public static void main(String[] args) {
         // String s = "Merry";
         // System.out.println("Christmas");

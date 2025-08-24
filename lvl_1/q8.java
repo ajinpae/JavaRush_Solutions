@@ -1,4 +1,5 @@
-package com.javarush.task.task01.task0108;
+
+//package com.javarush.task.task01.task0108;
 
 /*
 Comment out unnecessary lines of code so that the following message appears on the screen:
@@ -12,7 +13,7 @@ Requirements:
 • You cannot change (you can comment out) or add commands responsible for output
 */
 
-public class Solution {
+public class q8 {
     public static void main(String[] args) {
         int a = 3;
         int b = 2;
